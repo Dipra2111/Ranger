@@ -32,7 +32,7 @@ Ranger is a Python-based **AI voice assistant** that can understand voice comman
 1. **Clone the repo**  
    ```bash
    git clone https://github.com/your-username/ranger-voice-assistant.git
-   cd ranger-voice-assistant
+   cd Ranger-voice-assistant
 2. pip install -r requirements.txt
 3. Run
    python ranger.py
